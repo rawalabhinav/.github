@@ -4,7 +4,7 @@ Coderecs is a competitive programming platform, which recommend the users to sol
 
 > Note : It is built as a prototype for now, by college students. We aim to put this forward for production in upcoming future.
 ## Motivation
-The motivation for CodeZone came when the creators of the website were facing a common problem. All of them knew about the resources to learn programming, but were perplexed as to how to proceed.
+The motivation for CodeRecs came when the creators of the website were facing a common problem. All of them knew about the resources to learn programming, but were perplexed as to how to proceed.
 
 Nowhere offered a thorough road to mastery, so we set out to create a single platform where everyone could study regardless of ability level so that this issue would never arise again.
 

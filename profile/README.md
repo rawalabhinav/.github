@@ -63,3 +63,7 @@ Libraries/Frameworks used:
 
 ### Data preprocessing
 The data is collected from the Open Source API of [codeforces](https://codeforces.com/apiHelp/methods).
+
+### Coderecs system design
+![Design](https://user-images.githubusercontent.com/77731025/189890479-ac3098d6-348e-4c0c-88c2-66736f781f25.png)
+
